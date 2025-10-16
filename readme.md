@@ -49,5 +49,5 @@ To create a **composite sustainability analysis system** that merges ESG, GDP, S
 
 ## Deployment
 
-Streamlit Live App: [Add Your Streamlit URL Here]  
+Streamlit Live App: https://global-climate-risk-esg-analysis-virender.streamlit.app/
 GitHub Repo:https://github.com/virendermachra0705-hash/Global-Climate-Risk-ESG-Analysis
